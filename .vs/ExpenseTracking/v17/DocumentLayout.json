@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|e:\\development\\it department\\final protfolio update\\protfolios\\ado.net core and oracle\\expense tracking\\expensetracking\\expensetracking\\iinterface\\iloginsingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|solutionrelative:expensetracking\\iinterface\\iloginsingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|e:\\development\\it department\\final protfolio update\\protfolios\\ado.net core and oracle\\expense tracking\\expensetracking\\expensetracking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|solutionrelative:expensetracking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|e:\\development\\it department\\final protfolio update\\protfolios\\ado.net core and oracle\\expense tracking\\expensetracking\\expensetracking\\services\\loginsingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|solutionrelative:expensetracking\\services\\loginsingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|e:\\development\\it department\\final protfolio update\\protfolios\\ado.net core and oracle\\expense tracking\\expensetracking\\expensetracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|solutionrelative:expensetracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|e:\\development\\it department\\final protfolio update\\protfolios\\ado.net core and oracle\\expense tracking\\expensetracking\\expensetracking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|solutionrelative:expensetracking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|e:\\development\\it department\\final protfolio update\\protfolios\\ado.net core and oracle\\expense tracking\\expensetracking\\expensetracking\\controllers\\loginsingupcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA521A8E-95C6-4A6A-8F5E-8805F2ADBCFE}|ExpenseTracking\\ExpenseTracking.csproj|solutionrelative:expensetracking\\controllers\\loginsingupcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginSingup.cs",
+              "DocumentMoniker": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\Services\\LoginSingup.cs",
+              "RelativeDocumentMoniker": "ExpenseTracking\\Services\\LoginSingup.cs",
+              "ToolTip": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\Services\\LoginSingup.cs",
+              "RelativeToolTip": "ExpenseTracking\\Services\\LoginSingup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:53:28.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTracking\\Program.cs",
+              "ToolTip": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\Program.cs",
+              "RelativeToolTip": "ExpenseTracking\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:51:32.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILoginSingup.cs",
+              "DocumentMoniker": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\IinterFace\\ILoginSingup.cs",
+              "RelativeDocumentMoniker": "ExpenseTracking\\IinterFace\\ILoginSingup.cs",
+              "ToolTip": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\IinterFace\\ILoginSingup.cs",
+              "RelativeToolTip": "ExpenseTracking\\IinterFace\\ILoginSingup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:49:03.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginSingupController1.cs",
+              "DocumentMoniker": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\Controllers\\LoginSingupController1.cs",
+              "RelativeDocumentMoniker": "ExpenseTracking\\Controllers\\LoginSingupController1.cs",
+              "ToolTip": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\Controllers\\LoginSingupController1.cs",
+              "RelativeToolTip": "ExpenseTracking\\Controllers\\LoginSingupController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:48:38.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseTracking\\appsettings.json",
+              "ToolTip": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\appsettings.json",
+              "RelativeToolTip": "ExpenseTracking\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T16:24:18.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracking\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Development\\IT Department\\Final Protfolio Update\\Protfolios\\ADO.NET Core and Oracle\\Expense Tracking\\ExpenseTracking\\ExpenseTracking\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExpenseTracking\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:16:58.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
